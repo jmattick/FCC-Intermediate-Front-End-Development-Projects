@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo|Source+Code+Pro');
+body {
+  text-align: center;
+  font-family: 'Arimo', sans-serif;
+}
+
+.container {
+  margin-bottom: 20px;
+}
+
+h1 {
+  padding: 20px;
+  margin: 0px;
+  font-family: 'Source Code Pro', monospace;
+}
+
+#border {
+  background: gray;
+  padding: 10px;
+}
+
+.online {
+  background: palegreen;
+}
+
+.offline {
+  background: salmon;
+}
+
+.inactive {
+  background: lightgrey;
+}
+
+ul {
+  list-style-position: none;
+  padding-left: 0;
+  margin-top: 10px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.hide {
+  display: none;
+}
+
+button {
+  width: 100px;
+  align: center;
+}
