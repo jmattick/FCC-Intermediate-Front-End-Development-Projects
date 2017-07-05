@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:700|Raleway');
+
+body {
+  background-color: hotpink;
+  font-family: 'Raleway', sans-serif;
+  color: yellow;
+  text-align: center;
+  font-size: 25px;
+}
+
+.title {
+  font-family: 'Dancing Script', cursive;
+}
+
+button {
+  font-family: 'Raleway', sans-serif;
+  background-color: yellow;
+  border: none;
+  border-radius: 20px;
+  margin: 10px;
+}
