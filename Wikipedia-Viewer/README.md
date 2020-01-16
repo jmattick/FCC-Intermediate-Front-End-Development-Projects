@@ -1,6 +1,6 @@
 <h1>Wikipedia Viewer</h1>
 
-View Here: https://codepen.io/jmatty16/full/Lywwzw/
+View Here: https://codepen.io/jmattick/full/Lywwzw/
 
 There were two obligations for this project. 
 

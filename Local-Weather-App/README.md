@@ -1,5 +1,5 @@
 <h1>Local Weather App</h1>
-View here: http://codepen.io/jmatty16/full/WpdarV/
+View here: http://codepen.io/jmattick/full/WpdarV/
 
 Second Intermediate Front-End Development Project through Free Code Camp. 
 

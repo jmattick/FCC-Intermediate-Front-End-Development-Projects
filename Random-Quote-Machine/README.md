@@ -1,5 +1,5 @@
 <h1>Random Quote Machine</h1>
-View Here: http://codepen.io/jmatty16/full/ZpKRXV/
+View Here: http://codepen.io/jmattick/full/ZpKRXV/
 First Intermediate Front-End Development Project through Free Code Camp.
 
 Two obligations needed to be fulfilled. (1) User can press a button and view a random quote (2) User can press a button to tweet quote. 
